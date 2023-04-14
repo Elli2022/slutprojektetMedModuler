@@ -16,5 +16,9 @@
     "cli": "^1.0.1",
     "nodejs": "^0.0.0",
     "parcel": "^2.8.3"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.16",
+    "del-cli": "^5.0.0"
   }
 }
